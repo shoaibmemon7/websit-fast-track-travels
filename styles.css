@@ -1,0 +1,110 @@
+body{
+      margin: 0;
+  }
+  @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+  .container {
+    overflow: hidden;
+    width: auto;
+    background-color: #ffc266;
+    background-color:;
+    height: 110px;
+
+  }
+
+  .logo-item{
+      width: 130px;
+      height: 100px;
+      margin-left: 40px;
+      margin-top: 5px; 
+    }
+ .topnav{
+      width: 800px;
+      height: 110px;
+      margin-left: 600px;
+      margin-top: -60px;
+  }
+  .topnav a {
+    float: left;
+    display: block;
+    color: #663300;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1px;
+    padding-left: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
+  }
+  .topnav a:hover {
+    background-color: #ffc266;
+    color: #331a00;
+  }
+  .header{
+    width: 98px;
+    heigh:918px;
+    padding-left: 670px;
+    text-decoration: none;
+    color: #663300
+
+  }
+  
+  .main-item{
+      width: 1350px;
+      height: 500px;
+  }
+  .sidebar{
+    border:1px solid #ffc266 ;
+    padding-left: 100px;
+    margin-top: -20px;
+
+  }
+  .footer {
+    background-color: #ffc266;
+    padding: 70px;
+    width: auto;
+  }
+  .footer-columns1{
+      width: 300px;
+      border: 1px solid #ffc266;
+      padding-left: 120px;
+      list-style-type: none;
+      margin-top: -50px;
+      height: 150px;
+
+    
+  }
+  .footer-columns2{
+    width: 300px;
+    border: 1px solid #ffc266;
+    margin-left: 300px;
+    margin-top: -150px;
+    padding-left: 140px;
+    height: 150px;
+  }
+  .footer-columns3{
+    width: 300px;
+    border: 1px solid #ffc266;
+    margin-left: 600px;
+    margin-top: -150px;
+    padding-left: 120px;
+    height: 150px;
+  }
+  .footer-columns4{
+    width: 300px;
+    border:1px solid #ffc266;
+    margin-left: 900px;
+    margin-top: -150px;
+    padding-left: 120px;
+    height: 150px;
+  }
+  .footer ul {
+    list-style-type: none;
+  }
+
+  .footer a {
+    color: #663500;
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+  }
